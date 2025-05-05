@@ -28,7 +28,15 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **Procedure**
 
-/* write all the steps invloved */
+1.Initialize the shift register to a known state (e.g., all zeros).
+
+2.Input a bit serially into the shift register.
+
+3.Shift the contents of the register one position to the right (or left).
+
+4.Output the shifted bit from the last stage of the register.
+
+5.Repeat steps 2-4 for each bit you want to input and shift.
 
 **PROGRAM**
 ```
@@ -62,5 +70,7 @@ RegisterNumber: 212224040199
 
 
 **TRUTH TABLE**
+
+![image](https://github.com/user-attachments/assets/a1e292de-1bb1-4747-8551-01377e74ec02)
 
 **RESULTS**
