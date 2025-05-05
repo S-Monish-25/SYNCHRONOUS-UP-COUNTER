@@ -74,3 +74,4 @@ RegisterNumber: 212224040199
 ![image](https://github.com/user-attachments/assets/a1e292de-1bb1-4747-8551-01377e74ec02)
 
 **RESULTS**
+Thus the given 4 bit synchronous up counter are implimented using and validate functionality are verified using verilog programming.
